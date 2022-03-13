@@ -1,4 +1,4 @@
-<img href="https://github-readme-stats.vercel.app/api/top-langs/?username=oguuk&show_icons=true&theme=swift">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguuk&show_icons=true&theme=swift">
 <hr>
   <p align="center"><b> Tech </b></p>
   
