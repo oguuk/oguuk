@@ -1,6 +1,4 @@
-
-<div style="text-align:center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguuk&show_icons=true&theme=swift"></div>
-
+<p align="center"></p>
 <hr>
   <p align="center"><b> Tech </b></p>
   
