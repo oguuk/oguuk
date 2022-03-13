@@ -1,6 +1,6 @@
-<body align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguuk&show_icons=true&theme=swift">
-  </body>
+<p align="center">
+<center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguuk&show_icons=true&theme=swift"></center>
+  </p>
 <hr>
   <p align="center"><b> Tech </b></p>
   
