@@ -1,4 +1,4 @@
-### Hi there 👋
+https://img.shields.io/badge/github-GIVEME--STAR-red
 
 <!--
 **oguuk/oguuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
