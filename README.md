@@ -1,6 +1,6 @@
 <p align="center"></p>
 <hr>
-  <p align="center"><b> Tech </b></p>
+  <p align="center"><b> 👨‍💻 Tech 👨‍💻 </b></p>
   
   <p align="center"> Platforms </p>
   <p align="center"><img src="https://img.shields.io/badge/iOS-c0c0c0?style=flat-square&logo=iOS&logoColor=white"/></a> <img src="https://img.shields.io/badge/macOS-c0c0c0?style=flat-square&logo=macOS&logoColor=white"/></a></p>
