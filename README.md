@@ -4,7 +4,7 @@
   <p align="center"><b> Tech </b></p>
   
   <p align="center"> Platforms </p>
-  <p align="center"><img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/></a> <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/></a></p>
+  <p align="center"><img src="https://img.shields.io/badge/iOS-ffffff?style=flat-square&logo=iOS&logoColor=black"/></a> <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/></a></p>
   <p align="center"> Languages </p>
 <p align="center"><img src="https://img.shields.io/badge/Python-489C08?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a> <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=flat-square&logo=CocoaPods&logoColor=white"/></a> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a> <img src="https://img.shields.io/badge/JAVA-D72222?style=flat-square&logo=JAVA&logoColor=white"/></a> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a></p> 
 
