@@ -1,5 +1,4 @@
-
----
+<hr>
   <p align="center"><b> Tech </b></p>
   
   <p align="center"> Platforms </p>
