@@ -1,5 +1,5 @@
 
-  <p aling="center"><img href="https://github-readme-stats.vercel.app/api/top-langs/?username=oguuk&show_icons=true&theme=swift"></p>
+  <p aling="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguuk&show_icons=true&theme=swift"></p>
 ---
   <p align="center"><b> Tech </b></p>
   
