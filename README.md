@@ -1,5 +1,4 @@
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguuk&show_icons=true&theme=swift">
 ---
   <p align="center"><b> Tech </b></p>
   
