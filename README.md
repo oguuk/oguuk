@@ -1,5 +1,5 @@
 
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foguuk%2F&count_bg=%2379C83D&title_bg=%232EAF01&icon=python.svg&icon_color=%23FFFFFF&title=Python&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **oguuk/oguuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
