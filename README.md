@@ -1,25 +1,3 @@
-<p align="center"></p>
-<hr>
-  <p align="center"><b> 👨‍💻 Tech 👨‍💻 </b></p>
-  
-  <p align="center"> Platforms </p>
-  <p align="center"><img src="https://img.shields.io/badge/iOS-c0c0c0?style=flat-square&logo=iOS&logoColor=white"/></a> <img src="https://img.shields.io/badge/macOS-c0c0c0?style=flat-square&logo=macOS&logoColor=white"/></a></p>
-  <p align="center"> Languages </p>
-<p align="center"><img src="https://img.shields.io/badge/Python-489C08?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a> <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=flat-square&logo=CocoaPods&logoColor=white"/></a> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a> <img src="https://img.shields.io/badge/JAVA-D72222?style=flat-square&logo=JAVA&logoColor=white"/></a> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a></p> 
-<hr>
-<p style="color:white" align="center"><a href="https://oguuk.tistory.com/" >My Blog</a></p>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foguuk%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23FFFFFF&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<!--
-**oguuk/oguuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=%20oguuk%20&fontSize=90&fontColor=FFFFFF&animation=fadeIn)
